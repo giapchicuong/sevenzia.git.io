@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Chưa phân loại &#8211; Sevenzia</title>
-	<atom:link href="/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://github.com/giapchicuong/sevenzia/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/giapchicuong/sevenzia</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Mar 2023 03:59:50 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,12 +24,12 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>SEVENPLUS Lazy Puppy Tee Version 2 &#8211; White</title>
-		<link>/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/</link>
-					<comments>/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:54:25 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=120</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=120</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Cotton 2 chiều 100% cotton (định lượng vải: 220gsm), chất vải không quá  dày, mềm [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -46,19 +46,19 @@
 <em>*Vui lòng kéo đến hình cuối để xem số đo chi tiết.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-white-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>SEVENPLUS Lazy Puppy Tee Version 2 &#8211; Red</title>
-		<link>/san-pham/sevenplus-lazy-puppy-tee-version-2-red/</link>
-					<comments>/san-pham/sevenplus-lazy-puppy-tee-version-2-red/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-red/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-red/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:52:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=119</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=119</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Cotton 2 chiều 100% cotton (định lượng vải: 220gsm), chất vải không quá  dày, mềm [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -75,19 +75,19 @@
 <em>*Vui lòng kéo đến hình cuối để xem số đo chi tiết.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/sevenplus-lazy-puppy-tee-version-2-red/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-red/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>SEVENPLUS Lazy Puppy Tee Version 2 &#8211; Blue</title>
-		<link>/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/</link>
-					<comments>/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:49:49 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=118</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=118</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Cotton 2 chiều 100% cotton (định lượng vải: 220gsm), chất vải không quá  dày, mềm [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -104,19 +104,19 @@
 <em>*Vui lòng kéo đến hình cuối để xem số đo chi tiết.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-blue/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>SEVENPLUS Lazy Puppy Tee Version 2 &#8211; Beige</title>
-		<link>/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/</link>
-					<comments>/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:48:22 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=117</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=117</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Cotton 2 chiều 100% cotton (định lượng vải: 220gsm), chất vải không quá  dày, mềm [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -133,19 +133,19 @@
 <em>*Vui lòng kéo đến hình cuối để xem số đo chi tiết.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-beige/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>SEVENPLUS Lazy Puppy Tee Version 2 &#8211; Black</title>
-		<link>/san-pham/sevenplus-lazy-puppy-tee-version-2-black/</link>
-					<comments>/san-pham/sevenplus-lazy-puppy-tee-version-2-black/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-black/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-black/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:33:09 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=115</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=115</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Cotton 2 chiều 100% cotton (định lượng vải: 220gsm), chất vải không quá  dày, mềm [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="fw w_100">
@@ -170,7 +170,7 @@
 <div class="ddict_btn" style="top: -12px; left: 982px;"><img decoding="async" src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/sevenplus-lazy-puppy-tee-version-2-black/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/sevenplus-lazy-puppy-tee-version-2-black/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

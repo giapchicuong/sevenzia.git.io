@@ -12,8 +12,8 @@
 
 <channel>
 	<title>SEVENPLUS &#8211; Sevenzia</title>
-	<atom:link href="/danh-muc-san-pham/project/sevenplus/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://github.com/giapchicuong/sevenzia/danh-muc-san-pham/project/sevenplus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/giapchicuong/sevenzia</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Mar 2023 04:14:40 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,12 +24,12 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Project Seven Tri-color Jacket &#8211; Red&#038;Navy</title>
-		<link>/san-pham/project-seven-tri-color-jacket-rednavy/</link>
-					<comments>/san-pham/project-seven-tri-color-jacket-rednavy/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-tri-color-jacket-rednavy/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-tri-color-jacket-rednavy/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 04:14:39 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=123</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=123</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Vải dù 100% polyester tương đối dày dặn. &#8211; Logo thêu đắp trước ngực và sau lưng. [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -47,19 +47,19 @@
 &#8211; Hàng SALE: không áp dụng đổi trả, trừ sản phẩm bị lỗi sản xuất hoặc giao sai mẫu. (<em>Xem thêm</em>)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/project-seven-tri-color-jacket-rednavy/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-tri-color-jacket-rednavy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project Seven Big Logo Jacket &#8211; Black&#038;Gray</title>
-		<link>/san-pham/project-seven-big-logo-jacket-blackgray/</link>
-					<comments>/san-pham/project-seven-big-logo-jacket-blackgray/#respond</comments>
+		<link>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-big-logo-jacket-blackgray/</link>
+					<comments>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-big-logo-jacket-blackgray/#respond</comments>
 		
 		<dc:creator><![CDATA[Giap Chi Cuong]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 04:09:58 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=121</guid>
+				<guid isPermaLink="false">http://github.com/giapchicuong/sevenzia/?post_type=product#038;p=121</guid>
 
 					<description><![CDATA[1. Thông tin sp: &#8211; Chất liệu: Vải dù 100% polyester tương đối dày dặn. &#8211; Logo 7ZIA in lụa. &#8211; Bên trong có [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>1. Thông tin sp:</strong><br />
@@ -78,7 +78,7 @@
 <div class="ddict_btn" style="top: 250px; left: 172.3px;"><img decoding="async" src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/project-seven-big-logo-jacket-blackgray/feed/</wfw:commentRss>
+					<wfw:commentRss>http://github.com/giapchicuong/sevenzia/san-pham/project-seven-big-logo-jacket-blackgray/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
